@@ -1,4 +1,4 @@
-# Stage controller for a dump track + asphalt roller
+# Stage controller for a dump track + asphalt roller animation
 This firmware plays ~30 seconds long automated control sequence
 
 ## Components
@@ -9,7 +9,7 @@ This firmware plays ~30 seconds long automated control sequence
 
 ## Controlled objects
 
-- Dump truck (3V DC motor)
+- Viessmann Dump truck (3V DC motor)
 - Magnetically driven asphalt roller (3V 14rpm gear motor)
 
 ## Power supply
